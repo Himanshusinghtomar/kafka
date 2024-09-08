@@ -11,7 +11,7 @@ This repository contains a simple `docker-compose.yml` file to run Kafka and Zoo
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/kafka-zookeeper-docker.git
+   git clone [https://github.com/your-username/kafka-zookeeper-docker.git](https://github.com/Himanshusinghtomar/kafka.git)
    cd kafka-zookeeper-docker
    ```
 
